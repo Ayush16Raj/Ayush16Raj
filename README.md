@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Android Developer**
 
-- 👯 I’m looking to collaborate on **on Android Dev Projects**
+- 👯 I’m looking to collaborate on **Android Dev Projects**
 
 - 💬 Ask me about **Android, Kotlin, Jetpack Compose, Dagger Hilt, MVVM**
 
